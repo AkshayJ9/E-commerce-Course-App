@@ -106,7 +106,7 @@ const Purchases = () => {
               </a>
             </li>
             <li className="mb-4">
-              <Link to="/settings" className="flex items-center">
+              <Link to="/" className="flex items-center">
                 <IoMdSettings className="mr-2" /> Settings
               </Link>
             </li>
