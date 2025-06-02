@@ -65,9 +65,9 @@ mern-course-app/
 
 > _Replace the image URLs below with your actual screenshots hosted on GitHub, Imgur, or any CDN._
 
-| Home Page | Course Detail | My Purchases |
-|----------|---------------|---------------|
-| ![Home](Frontend/Project_Demo/Home.png) | ![Courses](Frontend/Project_Demo/Courses.png) | ![My Purchases](Frontend/Project_Demo/PurchasedCourses.png) | ![Admin](Frontend/Project_Demo/Admin.png) | ![Admin](Frontend/Project_Demo/AdminHome.png) |  ![Admin Courses](Frontend/Project_Demo/AdminCourses.png) |  ![Admin](Frontend/Project_Demo/CreateCourse.png)
+| Home Page | Course Detail | My Purchases | Admin | Admin Home | Admin Course | Create Course |
+|----------|---------------|---------------|---------------|---------------|---------------|---------------|
+| ![Home](Frontend/Project_Demo/Home.png) | ![Courses](Frontend/Project_Demo/Courses.png) | ![My Purchases](Frontend/Project_Demo/PurchasedCourses.png) | ![Admin](Frontend/Project_Demo/Admin.png) | ![Admin Home](Frontend/Project_Demo/AdminHome.png) |  ![Admin Courses](Frontend/Project_Demo/AdminCourses.png) |  ![Create Course](Frontend/Project_Demo/CreateCourse.png)
 
 ---
 
