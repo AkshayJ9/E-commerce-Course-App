@@ -78,7 +78,7 @@ mern-course-app/
 ```bash
 git clone https://github.com/AkshayJ9/E-commerce-Course-App.git
 cd E-commerce-Course-App
-
+```
 
 ## 👤 Author
 
