@@ -83,7 +83,7 @@ cd E-commerce-Course-App
 ## 👤 Author
 
 **Akshay Jadhav**  
-📧 Email: [akshayj.contact@gmail.com](mailto:akshayj.contact@gmail.com)  
-📱 Phone: [+91-7249471395](tel:+917249471395)  
-🔗 GitHub: [@akshayj9](https://github.com/akshayj9)  
+📧 Email: akshayj.contact@gmail.com
+📱 Phone: +91-7249471395  
+🔗 GitHub: [@akshayj9](https://github.com/akshayj9)
 🔗 LinkedIn: [Akshay Jadhav](https://linkedin.com/in/akshaykjadhav)
