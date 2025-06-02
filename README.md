@@ -67,7 +67,7 @@ mern-course-app/
 
 | Home Page | Course Detail | My Purchases |
 |----------|---------------|---------------|
-| ![Home](Frontend/Project_Demo/Home.png) | ![Detail](https://your-image-link.com/detail.png) | ![My Purchases](https://your-image-link.com/purchases.png) |
+| ![Home](Frontend/Project_Demo/Home.png) | ![Courses](Frontend/Project_Demo/Courses.png) | ![My Purchases](Frontend/Project_Demo/PurchasedCourses.png) | ![Admin](Frontend/Project_Demo/Admin.png) | ![Admin](Frontend/Project_Demo/AdminHome.png) |  ![Admin Courses](Frontend/Project_Demo/AdminCourses.png) |  ![Admin](Frontend/Project_Demo/CreateCourse.png)
 
 ---
 
