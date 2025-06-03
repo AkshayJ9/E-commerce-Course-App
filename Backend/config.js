@@ -7,8 +7,7 @@
 // };
 
 // const STRIPE_SECRET_KEY =
-//   process.env.STRIPE_SECRET_KEY ||
-//   "sk_test_51RNt5fE4RCy8eDH80LStB5YCbpP6BKvUkkWUe4Amy0XoZtclrjmTuR3RBlW3DGp2utGHmzwYvSRoBLbZmsWtvzQ000aYk7M0rc";
+//   process.env.STRIPE_SECRET_KEY || "your_default_stripe_secret_key";
 
 // export { config, STRIPE_SECRET_KEY };
 
