@@ -16,12 +16,12 @@ dotenv.config(); // Load .env variables
 const app = express();
 const port = process.env.PORT || 3000;
 const DB_URI = process.env.MONGO_URI;
-const FRONT_URL = process.env.FRONT_URL || "https://courseapp-xi.vercel.app";
+const FRONT_URL = process.env.FRONT_URL || "https://e-commerce-course-app.vercel.app";
 
 // ✅ CORS Setup — Allow local and deployed frontend
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://courseapp-xi.vercel.app",
+  "https://e-commerce-course-app.vercel.app",
 ];
 
 app.use(
