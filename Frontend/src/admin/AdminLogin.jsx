@@ -35,7 +35,7 @@ const AdminLogin = () => {
   const handleLogout = async () => {
     try {
       const response = await axios.get(
-        "http://localhost:4001/api/v1/admin/logout",
+        `${BACKEND_URL}/admin/logout`,
         {
           withCredentials: true,
         }
@@ -64,7 +64,7 @@ const AdminLogin = () => {
 
     try {
       const response = await axios.post(
-        "http://localhost:4001/api/v1/admin/login",
+        `${BACKEND_URL}/admin/login`,
         { email, password },
         {
           withCredentials: true,
