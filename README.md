@@ -57,7 +57,7 @@ mern-course-app/
 
 ## 🔗 Live Demo
 
-🌐 **Live Site**: [https://your-deployed-site-url.com](https://your-deployed-site-url.com)
+🌐 **Live Site**: [https://CourseHaven.com](https://e-commerce-course-app.vercel.app/)
 
 ---
 
