@@ -145,6 +145,7 @@ export const courseDetails = async (req, res) => {
 // Buy Courses
 import Stripe from "stripe";
 import { config, STRIPE_SECRET_KEY } from "../config.js";
+// Import necessary models
 import { Course } from "../models/course.model.js";
 import { Purchase } from "../models/purchase.model.js";
 import { User } from "../models/user.model.js";
