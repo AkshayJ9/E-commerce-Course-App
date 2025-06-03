@@ -7,6 +7,7 @@ import { HiMenu, HiX } from "react-icons/hi";
 import logo from "../assets/logo.webp";
 import toast from "react-hot-toast";
 import axios from "axios";
+import { BACKEND_URL } from "../utils/utils";
 
 const Dashboard = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -19,10 +20,9 @@ const Dashboard = () => {
 
   const handleLogout = async () => {
     try {
-      const response = await axios.get(
-        "http://localhost:4001/api/v1/admin/logout",
-        { withCredentials: true }
-      );
+      const response = await axios.get(`${BACKEND_URL}/admin/logout`, {
+        withCredentials: true,
+      });
       toast.success(response.data.message);
       localStorage.removeItem("admin");
       setIsLoggedIn(false);
