@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-
+import { BACKEND_URL } from "../utils/utils";
 import { RiAdminFill, RiAiGenerateText, RiHome2Fill } from "react-icons/ri";
 import { IoLogIn, IoLogOut } from "react-icons/io5";
 import { HiMenu, HiX } from "react-icons/hi";
@@ -20,7 +20,7 @@ const Dashboard = () => {
   const handleLogout = async () => {
     try {
       const response = await axios.get(
-        "http://localhost:4001/api/v1/admin/logout",
+        `${BACKEND_URL}/admin/logout`,
         { withCredentials: true }
       );
       toast.success(response.data.message);
